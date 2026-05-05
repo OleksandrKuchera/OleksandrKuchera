@@ -8,11 +8,8 @@
 ```yaml
 name: Oleksandr Kuchera 
 located_in: Ukraine, Ivano-Frankivsk
-job: Affiliate marketing [buyer]
-education: ["King Danylo University", "Way-Up"]
-hobbies: ["Gym", "Competitive Gaming", "Everything related to cars"]
-will_learn: ["Under development..."]
-past experiences:  [".."]
+job: Affiliate marketing [buyer], Developer
+education: ["King Danylo University",]
 ```
 
 <p align="center">
